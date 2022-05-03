@@ -63,3 +63,8 @@ int main()
          << fractionalKnapsack(arr, N, size);
     return 0;
 }
+
+/*
+Time complexity 0(n*logn)
+Space complexity 0(n)
+*/

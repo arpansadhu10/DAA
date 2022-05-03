@@ -78,3 +78,6 @@ int main() {
 
   return 0;
 }
+
+
+//Prim’s algorithm has a time complexity of O(V2), V being the number of vertices 

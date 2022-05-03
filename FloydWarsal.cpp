@@ -63,3 +63,9 @@ int main()
   
     return 0;
 }
+
+
+/*
+Time complexity 0(n^3)
+Space Complexity 0(n^2)
+*/
