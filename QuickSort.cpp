@@ -78,3 +78,8 @@ int main() {
   printf("Sorted array in ascending order: \n");
   printArray(data, n);
 }
+
+/*
+Time complexity -avg 0(n*logn) -worst 0(n^2)
+space complexity 0(logn)
+*/

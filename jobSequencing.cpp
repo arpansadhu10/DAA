@@ -51,3 +51,8 @@ int main(){
     printJobScheduling(arr, n);
     return 0;
 }
+
+/*
+TimeComplexity -0(n^2)
+space complexity -0(1)
+*/
